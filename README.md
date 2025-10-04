@@ -8,5 +8,5 @@
 Featuring intuitive UI and advanced filtering, you can see which Pokémon learn a move and when they learn it, who has variant shinies, who has the highest stats, which biomes or eggs to find Pokémon, and much more. You can also see the [source code](https://github.com/Sandstormer/PokeRogue-Dex).
 
 
-### I also made the [PokeRogue SearchDex Updater](https://github.com/Sandstormer/PokeRogue-Updater), which assembles the data for the SearchDex.
+### To update all the data in the SearchDex, I made the [PokeRogue SearchDex Updater](https://github.com/Sandstormer/SearchDex-Updater).
 These scripts read all the necessary data from the game code, process all the images, and put all the data into a compact format for my site. I run these scripts whenever there is a game update. There is no need for anyone else to run these, unless I am unable to continue the project.
